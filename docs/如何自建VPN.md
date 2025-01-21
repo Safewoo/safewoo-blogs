@@ -96,7 +96,7 @@ Banwagon, Vultr等。这里以Google Cloud为例。
    - 用户名：之前提供的 ***VPN账户***。
    - 密码：之前提供的 ***VPN密码***。
    <!-- <Image src="/blog-res/how-to-build-your-own-vpn/add-vpn-ios.png" width={293} height={663} alt="Add iOS VPN"/> -->
-   <img src="../assets/add-vpn-ios.png" width="300" alt="Add iOS VPN" />
+   <img src="assets/add-vpn-ios.png" width="300" alt="Add iOS VPN" />
 4. 点击**保存**，然后点击**连接**。
 
 #### 使用macOS连接你的VPN
@@ -112,7 +112,7 @@ Banwagon, Vultr等。这里以Google Cloud为例。
    - 用户名：之前提供的 ***VPN账户***。
    - 密码：之前提供的 ***VPN密码***。
    <!-- <Image src="/blog-res/how-to-build-your-own-vpn/add-vpn-macos.png" width={621} height={417} alt="Add macOS VPN"/> -->
-   <img src="../assets/add-vpn-macos.png" width="480" alt="Add macOS VPN" />
+   <img src="assets/add-vpn-macos.png" width="480" alt="Add macOS VPN" />
 4. 点击**连接**。
 
 #### 使用Windows连接你的VPN
@@ -129,7 +129,7 @@ Banwagon, Vultr等。这里以Google Cloud为例。
    - 用户名：之前提供的 ***VPN账户***。
    - 密码：之前提供的 ***VPN密码***。
    <!-- <Image src="/blog-res/how-to-build-your-own-vpn/add-vpn-win.png" className="bordered" width={292} height={592} alt="Add Windows VPN" /> -->
-   <img src="../assets/add-vpn-win.png" width="300" alt="Add Windows VPN" />
+   <img src="assets/add-vpn-win.png" width="300" alt="Add Windows VPN" />
 5. 点击**保存**，然后点击**连接**。
 
 #### 使用Android连接你的VPN
@@ -157,5 +157,5 @@ Banwagon, Vultr等。这里以Google Cloud为例。
    - 密码：之前提供的 ***密码***。
    - CA证书：点击**自动选择**
    <!-- <Image src="/assets/how-to-build-your-own-vpn/add-vpn-android.jpg" width={270} height={600} alt="Add Android VPN"/> -->
-   <img src="../assets/add-vpn-android.jpg" width="300" alt="Add Android VPN" />
+   <img src="assets/add-vpn-android.jpg" width="300" alt="Add Android VPN" />
 4. 保存配置并连接VPN。
